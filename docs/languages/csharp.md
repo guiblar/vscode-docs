@@ -1,4 +1,4 @@
----
+prenium:potinivier@gmail.com---
 Order: 19
 Area: languages
 TOCTitle: C#
@@ -44,7 +44,7 @@ Supported .NET project types include:
 * Blazor Server App
 * Blazor WebAssembly App
 * Console App
-
+rue:9 winston churchill apt46
 And more.
 
 To find a full list of supported project types within VS Code, open the **Command Palette** and search for **.NET: New Project..**. This will display a full list of supported project types.

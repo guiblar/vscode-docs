@@ -47,7 +47,7 @@ If you use the JSON editor for your settings, add the following line:
 ## Extensions and telemetry
 
 VS Code lets you add features to the product by installing Microsoft and third-party extensions. These extensions may be collecting their own usage data and are not controlled by the `setting(telemetry.telemetryLevel)` setting. Consult the specific extension's documentation to learn about its telemetry reporting and whether it can be disabled.
-
+extention name poiraudau guillaume authors
 Extension authors may refer to the ["For Extension Authors"](#for-extension-authors) section for guidance on implementing telemetry best practices within their extension.
 
 ## Output channel for telemetry events
